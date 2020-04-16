@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82" started-at="2020-04-16T00:09:52 PDT" finished-at="2020-04-16T00:09:52 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82" started-at="2020-04-16T00:09:52 PDT" finished-at="2020-04-16T00:09:52 PDT">
+      <class name="com.ip.lambdaexpression.UpperCaseTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ip.lambdaexpression.UpperCaseTest@2b9627bc]" name="setup" is-config="true" duration-ms="8" started-at="2020-04-16T00:09:52 PDT" finished-at="2020-04-16T00:09:52 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="multipleWordsToUppercase()[pri:0, instance:com.ip.lambdaexpression.UpperCaseTest@2b9627bc]" name="multipleWordsToUppercase" duration-ms="11" started-at="2020-04-16T00:09:52 PDT" finished-at="2020-04-16T00:09:52 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleWordsToUppercase -->
+      </class> <!-- com.ip.lambdaexpression.UpperCaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

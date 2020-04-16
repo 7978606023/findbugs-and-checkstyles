@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="H:\My Program\LambdaExpression\src\main\java\com\ip\lambdaexpression\FindStirngWithFirstCharacter.java">
+<error line="0" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+</file>
+<file name="H:\My Program\LambdaExpression\src\main\java\com\ip\lambdaexpression\IsNumberPresentStream.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="H:\My Program\LambdaExpression\src\main\java\com\ip\lambdaexpression\SampleFilter.java">
+</file>
+<file name="H:\My Program\LambdaExpression\src\main\java\com\ip\lambdaexpression\SampleMap.java">
+<error line="22" column="40" severity="error" message="Expected @param tag for &apos;args&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="25" column="7" severity="error" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="26" column="7" severity="error" message="&apos;30&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="27" column="7" severity="error" message="&apos;40&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="28" column="7" severity="error" message="&apos;50&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="H:\My Program\LambdaExpression\src\main\java\com\ip\lambdaexpression\StringExercises.java">
+<error line="26" column="9" severity="error" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="H:\My Program\LambdaExpression\src\main\java\com\ip\lambdaexpression\UpperCase.java">
+</file>
+</checkstyle>
