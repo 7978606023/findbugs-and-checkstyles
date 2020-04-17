@@ -3,26 +3,26 @@ package com.ip.lambdaexpression;
 import java.util.Arrays;
 import java.util.List;
 import org.testng.Assert;
-import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class UpperCaseTest {
 
 /**
- *Call to implement class UpperCase
+ *Declaring uppercase class as a datamember in it.
  */
 private UpperCase upperCase = null;
 
 /**
- *Create the object of implement class
+ *Create the object of implement class.
  */
-@BeforeMethod
+@BeforeTest
 public void setup() {
 upperCase = new UpperCase();
 }
 
 /**
- *First Test case to check with lower case letter
+ *First Test case to check with lower case letter.
  */
 @Test
 public void multipleWordsToUppercase() {

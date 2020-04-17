@@ -38,7 +38,7 @@ Assert.assertEquals(0, com.ip.lambdaexpression.StringExercises
 /**
 *
 **/
-@Test
+//@Test
 public void noStringReturnedForEmptyList() {
 Assert.assertFalse(com.ip.lambdaexpression
 .StringExercises.mostLowercaseString(Collections
@@ -48,7 +48,7 @@ Assert.assertFalse(com.ip.lambdaexpression
 /**
 *
 */
-@Test
+//@Test
 public void findsMostLowercaseString() {
 Optional<String> result = StringExercises.mostLowercaseString(Arrays
 .asList("a", "abc", "ABCde"));

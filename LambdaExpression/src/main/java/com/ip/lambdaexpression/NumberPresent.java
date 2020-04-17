@@ -3,15 +3,15 @@ package com.ip.lambdaexpression;
 import java.util.stream.Stream;
 
 /**
- * @author PRATAP
- *Wap to check number present in stream or not
+ * @author PRATAP.
+ * Wap to check number present in stream or not.
  */
-final class IsNumberPresentStream {
+final class NumberPresent {
 
 /**
-* @param numbers number
-* @param num single number
-* @return number
+* @param numbers number.
+* @param num single number.
+* @return number.
 */
 public boolean isANumberPresentInStream(
 final Stream<Integer> numbers, final int num) {

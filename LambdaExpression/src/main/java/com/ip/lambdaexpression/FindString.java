@@ -1,3 +1,6 @@
+/**
+ * Info about this package doing something for package-info.java file.
+ */
 package com.ip.lambdaexpression;
 
 import java.util.Optional;
@@ -5,15 +8,15 @@ import java.util.stream.Stream;
 
 /**
  * @author PRATAP
- *Wap to first string first character
+ *
  */
-final class FindStirngWithFirstCharacter {
+public class FindString {
 /**
 * @param listOfStrings is listStrings
 * @param ch single String
 * @return values
 */
-public String findFirstStringStartsWithOneCharacter(
+public final String findFirstStringStartsWithOneCharacter(
 final Stream<String> listOfStrings, final String ch) {
 
 Optional<String> firstStringWithCharacter = listOfStrings

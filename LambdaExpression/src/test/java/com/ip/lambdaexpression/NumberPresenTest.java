@@ -5,23 +5,23 @@ import java.util.stream.Stream;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class IsNumberPresentStreamTest {
+public class NumberPresenTest {
 
 /**
-*Call to implement class of IsNumberPresentStream
+*Call to implement class of IsNumberPresentStream.
 */
-private IsNumberPresentStream isNumberPresentStream = null;
+private NumberPresent isNumberPresentStream = null;
 
 /**
-*Create the object of implement class
+*Create the object of implement class.
 */
 @BeforeTest
 public void setUp() {
-isNumberPresentStream = new IsNumberPresentStream();
+isNumberPresentStream = new NumberPresent();
 }
 
 /**
-*First test case with is number present or not
+*First test case with is number present or not.
 */
 @Test
 public void listOfIntegerStreamType() {

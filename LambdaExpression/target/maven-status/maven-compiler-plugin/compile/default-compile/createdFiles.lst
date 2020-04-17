@@ -1,6 +1,7 @@
-com\ip\lambdaexpression\StringExercises.class
 com\ip\lambdaexpression\SampleFilter.class
+com\ip\lambdaexpression\NumberPresent.class
+com\ip\lambdaexpression\StringExercises.class
 com\ip\lambdaexpression\SampleMap.class
-com\ip\lambdaexpression\FindStirngWithFirstCharacter.class
-com\ip\lambdaexpression\IsNumberPresentStream.class
+com\ip\lambdaexpression\FindString$FindStirngWithFirstCharacter.class
+com\ip\lambdaexpression\FindString.class
 com\ip\lambdaexpression\UpperCase.class

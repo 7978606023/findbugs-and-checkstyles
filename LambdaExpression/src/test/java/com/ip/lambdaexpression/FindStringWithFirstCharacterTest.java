@@ -8,21 +8,21 @@ import org.testng.annotations.Test;
 public class FindStringWithFirstCharacterTest {
 
 /**
-* Call to implement class of FindStirngWithFirstCharacter
+* Call to implement class of FindStirngWithFirstCharacter.
 */
-private FindStirngWithFirstCharacter findStirngWithFirstCharacter
+private FindString findStirngWithFirstCharacter
 = null;
 
 /**
-*Create the object of implement class
+*Create the object of implement class.
 **/
 @BeforeTest
 public final void setUp() {
-findStirngWithFirstCharacter = new FindStirngWithFirstCharacter();
+findStirngWithFirstCharacter = new FindString();
 }
 
 /**
-*First test case of first String with first character
+*First test case of first String with first character.
 */
 @Test
 public void findNameStartWithCharacter() {

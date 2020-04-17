@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2020</copyright>
     <item>
-      <title>File: 6,
-             Errors: 8,
+      <title>File: 1,
+             Errors: 1,
              Warnings: 0,
              Infos: 0
       </title>
@@ -46,77 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.ip.lambdaexpression.StringExercises.java">com/ip/lambdaexpression/StringExercises.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.ip.lambdaexpression.SampleFilter.java">com/ip/lambdaexpression/SampleFilter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.ip.lambdaexpression.UpperCase.java">com/ip/lambdaexpression/UpperCase.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.ip.lambdaexpression.SampleMap.java">com/ip/lambdaexpression/SampleMap.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  5
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.ip.lambdaexpression.FindStirngWithFirstCharacter.java">com/ip/lambdaexpression/FindStirngWithFirstCharacter.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.ip.lambdaexpression.IsNumberPresentStream.java">com/ip/lambdaexpression/IsNumberPresentStream.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#com.ip.lambdaexpression.FindString.java">com/ip/lambdaexpression/FindString.java</a>
                 </td>
                 <td>
                   0

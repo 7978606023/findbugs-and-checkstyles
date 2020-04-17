@@ -23,8 +23,9 @@ throw new AssertionError("Instantiating utility class.");
 * @return values value
 */
 public static int countLowercaseLetters(final String string) {
-int a = 10;
+//int a = 1;
 return (int) string.chars().filter(Character::isLowerCase).count();
+//string.chars().filter(Character :: isLo)
 }
 
 /**
